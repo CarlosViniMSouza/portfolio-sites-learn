@@ -1,0 +1,1 @@
+alert("This message was sent by JS")
